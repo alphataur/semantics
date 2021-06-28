@@ -1,4 +1,4 @@
-### formater for Debug trait
+## Intro to traits and crash course to display trait
 
 ```rust
 struct Person{
